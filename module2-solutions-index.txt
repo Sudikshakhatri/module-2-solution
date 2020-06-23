@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Assignment 2 </title>
+<meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="module2-solutions.css">
+</head>
+<body>
+<h1> Our Menu </h1>
+<div class="row">
+        <div class="col-lg-4 col-md-6 col-sm-12">
+            <section class="chinese">
+             <h2>CHINESE</h2>
+                   <p1><br><br><ol><li>Noddles</li><li>Chili paneer</li><li>Fried rice</li><li>Manchurian</li></ol></p1>
+            </section>
+        </div>
+<div class="col-lg-4 col-md-6 col-sm-12">
+            <section class="north">
+              <h2>NORTH INDIAN</h2>
+                <p2> <br><br> <ol><li>Chola batura</li><li>Rajma chawal</li><li>Dal makhani</li><li>Kadhai paneer</li></ol></p2>
+            </section>
+        </div>
+          <div class="col-lg-4 col-md-12 col-sm-12">
+            <section class="south">
+              <h2>SOUTH INDIAN </h2>
+               <p3> <br><br> <ol><li>Masala dosa</li><li>Idli sambhar</li><li>Uttapam</li><li>Vada sambhar</li></ol></p3>
+            </section>
+        </div>
+    </div>
+</body>
+</html>
